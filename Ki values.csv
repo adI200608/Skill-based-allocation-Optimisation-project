@@ -1,0 +1,78 @@
+Impact Coefficient (Ki) for All States and UTs,,,,,,,
+,,,,,,,
+Using 2020-21 as Baseline Year,,,,,,,
+,,,,,,,
+No.,State/UT,Initial UR (2020-21),Final UR (2022-23),Change in UR (% points),% Change in UR,Budget Allocation (Amount),Ki Value
+1,Andaman & Nicobar,9.1,9.7,0.6,6.6%,9,0.73
+2,Andhra Pradesh,4.7,3,-1.7,-36.2%,352.1,-0.1
+3,Arunachal Pradesh,4.3,3.9,-0.4,-9.3%,13.4,-0.69
+4,Assam,1.2,2,0.8,66.7%,66.8,1
+5,Bihar,10.5,13.3,2.8,26.7%,273.9,0.1
+6,Chandigarh,7.1,4,-3.1,-43.7%,12.8,-3.41
+7,Chhattisgarh,5.1,3.1,-2,-39.2%,109.1,-0.36
+8,Delhi,3.5,1.9,-1.6,-45.7%,319.3,-0.14
+9,Goa,3.7,2.8,-0.9,-24.3%,5.42,-4.49
+10,Gujarat,1.9,2,0.1,5.3%,178.1,0.03
+11,Haryana,7.4,9,1.6,21.6%,605.6,0.04
+12,Himachal Pradesh,4.5,5.2,0.7,15.6%,136.8,0.11
+13,Jammu & Kashmir,5.9,4.4,-1.5,-25.4%,47.9,-0.53
+14,Jharkhand,7.3,5.4,-1.9,-26%,92.7,-0.28
+15,Karnataka,4.1,2.3,-1.8,-43.9%,854.1,-0.05
+16,Kerala,6.1,3.6,-2.5,-41%,154.8,-0.26
+17,Ladakh,2.9,6.1,3.2,110.3%,1.8,61.3
+18,Madhya Pradesh,3.5,1.8,-1.7,-48.6%,380.2,-0.13
+19,Maharashtra,5.2,2,-3.2,-61.5%,3452.8,-0.02
+20,Manipur,3.8,2.2,-1.6,-42.1%,2.3,-18.3
+21,Meghalaya,2.1,1.5,-0.6,-28.6%,4.8,-5.95
+22,Mizoram,1.1,0.6,-0.5,-45.5%,1.6,-28.42
+23,Nagaland,8.5,4.1,-4.4,-51.8%,11,-4.71
+24,Odisha,3.5,1.8,-1.7,-48.6%,192.1,-0.25
+25,Punjab,7,5.8,-1.2,-17.1%,352.7,-0.05
+26,Rajasthan,5.8,3.7,-2.1,-36.2%,580.4,-0.06
+27,Sikkim,4.5,3.8,-0.7,-15.6%,3.6,-4.32
+28,Tamil Nadu,5.2,4.3,-0.9,-17.3%,132.1,-0.13
+29,Telangana,4.9,4.4,-0.5,-10.2%,236.3,-0.04
+30,Tripura,3.2,1.4,-1.8,-56.3%,9,-6.26
+31,Uttarakhand,6.9,4.5,-2.4,-34.8%,254.1,-0.14
+32,Uttar Pradesh,4.2,2.4,-1.8,-42.9%,390.2,-0.11
+33,West Bengal,3.5,2.2,-1.3,-37.1%,600.4,-0.06
+34,Dadra & Nagar Haveli and Daman & Diu,4.2,2.5,-1.7,-40.5%,1,-40.48
+35,Lakshadweep,13.4,11.1,-2.3,-17.2%,0.9,-19.07
+36,Puducherry,6.7,5.6,-1.1,-16.4%,5.6,-2.93
+All India,4.2,3.2,-1,-23.8%,10259.1,-0.002,
+,,,,,,,
+Impact Coefficient (Ki) Formula,,,,,,,
+,,,,,,,
+Ki = (ΔUR / UR₀) / (ΔB / B₀),,,,,,,
+,,,,,,,
+Where:,,,,,,,
+,,,,,,,
+ΔUR = Change in unemployment rate (percentage points),,,,,,,
+UR₀ = Initial unemployment rate (%) in 2020-21,,,,,,,
+ΔB = Change in budget allocation (amount),,,,,,,
+B₀ = Initial budget allocation (amount),,,,,,,
+,,,,,,,
+Key Insights,,,,,,,
+,,,,,,,
+States/UTs with Most Efficient Budget Use (Most Negative Ki):,,,,,,,
+,,,,,,,
+1. Dadra & Nagar Haveli and Daman & Diu (-40.48),,,,,,,
+2. Mizoram (-28.42),,,,,,,
+3. Lakshadweep (-19.07),,,,,,,
+4. Manipur (-18.30),,,,,,,
+5. Tripura (-6.26),,,,,,,
+,,,,,,,
+States/UTs with Least Efficient Budget Use (Positive Ki):,,,,,,,
+,,,,,,,
+1. Ladakh (61.30),,,,,,,
+2. Assam (1.00),,,,,,,
+3. Andaman & Nicobar (0.73),,,,,,,
+4. Bihar (0.10),,,,,,,
+5. Himachal Pradesh (0.11),,,,,,,
+,,,,,,,
+Note on Interpretation,,,,,,,
+,,,,,,,
+Negative Ki values indicate that increased budget allocation correlates with decreased unemployment,,,,,,,
+Positive Ki values suggest unemployment increased despite budget allocation,,,,,,,
+Very large negative values may indicate exceptional efficiency or data anomalies that warrant further investigation,,,,,,,
+Results should be interpreted alongside other socioeconomic indicators and regional factors,,,,,,,
